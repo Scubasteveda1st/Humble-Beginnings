@@ -1,0 +1,37 @@
+/* styles.css */
+
+/* Apply Cinzel to the body text */
+body {
+    font-family: 'Cinzel', serif;
+    background-color: #f3f2ed;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Use Almendra for headers */
+h1, h2 {
+    font-family: 'Almendra', serif;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+/* Section styling */
+section {
+    padding: 2em;
+    margin: 1em 0;
+    border: 1px solid #ccc;
+    background-color: #e6e0d6;
+}
